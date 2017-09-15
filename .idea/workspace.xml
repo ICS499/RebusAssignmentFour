@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dd59960-3b43-4a11-b609-828f5e69e069" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,8 @@
           <file leaf-file-name="db_configuration.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/db_configuration.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="383">
-                  <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+                <state relative-caret-position="391">
+                  <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -126,6 +125,7 @@
         <option value="$PROJECT_DIR$/../../php/php.ini" />
         <option value="$PROJECT_DIR$/add_words.php" />
         <option value="$PROJECT_DIR$/InsertUtil.php" />
+        <option value="$PROJECT_DIR$/db_configuration.php" />
       </list>
     </option>
   </component>
@@ -150,8 +150,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from XAMPP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="66" />
-    <option name="y" value="-16" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -233,12 +233,27 @@
       <workItem from="1505420217622" duration="12589000" />
       <workItem from="1505437486125" duration="1853000" />
       <workItem from="1505441945548" duration="711000" />
-      <workItem from="1505442943548" duration="226000" />
+      <workItem from="1505442943548" duration="494000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1505443180271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505443180271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1505443238380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505443238380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19639000" />
+    <option name="totallyTimeSpent" value="19907000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,6 +317,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,8 +669,8 @@
     <entry file="file://$PROJECT_DIR$/add_words.php" />
     <entry file="file://$PROJECT_DIR$/db_configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding />
         </state>
       </provider>
