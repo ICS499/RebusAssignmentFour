@@ -114,7 +114,7 @@ require('InsertUtil.php');
             }
 
             function addTableRows(word_table) {
-                alert("add rows");
+               // alert("add rows");
 
                 var table = document.getElementById(word_table);
                 var rowCount = table.rows.length;
@@ -128,15 +128,13 @@ require('InsertUtil.php');
                 for (var i = 0; i < colCount; i++) {
                     var newCell = row.insertCell(i);
                     newCell.innerHTML = table.rows[0].cells[i].innerHTML;
-
                 }
+                
                 for (var i = 0; i < colCountTwo; i++) {
                     var newCellTwo = rowTwo.insertCell(i);
                     newCellTwo.innerHTML = table.rows[1].cells[i].innerHTML;
 
                 }
-
-
             }
 
         </script>
