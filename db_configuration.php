@@ -30,7 +30,7 @@ function run_sql($sql_script)
         else if(strpos($sql_script, "INSERT")!== false)
         {
             return $db->insert_id;
-        }
+        }///
         else
         {
             return $result;
