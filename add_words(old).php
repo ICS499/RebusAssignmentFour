@@ -129,7 +129,7 @@ require('InsertUtil.php');
                     var newCell = row.insertCell(i);
                     newCell.innerHTML = table.rows[0].cells[i].innerHTML;
                 }
-                
+
                 for (var i = 0; i < colCountTwo; i++) {
                     var newCellTwo = rowTwo.insertCell(i);
                     newCellTwo.innerHTML = table.rows[1].cells[i].innerHTML;

@@ -58,7 +58,7 @@ if ($error) {
 <table align="center" class="adminTable">
     <tr>
         <td align="center">
-            <a href="add_words.php"><img src="./pic/addAWord.png" class="adminThumbnailSize"></a>
+            <a href="add_words_3.php"><img src="./pic/addAWord.png" class="adminThumbnailSize"></a>
         </td>
         <td align="center">
             <a href="list.php"><img src="./pic/wordList.png" class="adminThumbnailSize">
@@ -77,7 +77,7 @@ if ($error) {
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="add_words.php">Add Word</a></td>
+        <td align="center"><a href="add_words(old).php">Add Word</a></td>
         <td align="center"><a href="list.php">Word List</a></td>
         <td align="center"><a href="admin_manage_users.php">Users</a></td>
         <td align="center"><a href="export_db.php">Export</a></td>
